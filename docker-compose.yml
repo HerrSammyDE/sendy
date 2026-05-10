@@ -1,5 +1,3 @@
-version: "3.7"
-
 # Volumes for persisted data.
 volumes:
   data_sendy:
