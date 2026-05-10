@@ -1,2 +1,9 @@
 .vscode
 **/.DS_Store
+.idea/
+.claude/
+
+# Database dumps / backups
+*.sql
+*.sql.gz
+*.dump
